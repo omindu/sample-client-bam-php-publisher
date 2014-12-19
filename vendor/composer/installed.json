@@ -75,19 +75,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/omindu/bam-php-publisher.git",
-            "reference": "a06095271e7957f8fd6e2d217f3d2b406cf3a514"
+            "reference": "1657d46896720ff5a0988466cbc41595ebad41e3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/omindu/bam-php-publisher/zipball/a06095271e7957f8fd6e2d217f3d2b406cf3a514",
-            "reference": "a06095271e7957f8fd6e2d217f3d2b406cf3a514",
+            "url": "https://api.github.com/repos/omindu/bam-php-publisher/zipball/1657d46896720ff5a0988466cbc41595ebad41e3",
+            "reference": "1657d46896720ff5a0988466cbc41595ebad41e3",
             "shasum": ""
         },
         "require": {
             "apache/log4php": "2.3.0",
             "packaged/thrift": "0.9.0"
         },
-        "time": "2014-12-19 13:02:14",
+        "time": "2014-12-19 17:11:55",
         "type": "library",
         "installation-source": "source",
         "autoload": {
